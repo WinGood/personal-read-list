@@ -6,4 +6,4 @@
 
 ## Git
 
-[ ] [Git Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [ ] [Git Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
